@@ -14,7 +14,7 @@
 ## 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/shrinivas-venkatesan)  
 - [Email](mailto:shrinivas160703@gmail.com)
-- [Phone] (248) 893-9321  
+- 📞 (248) 893-9321  
 
 <!--
 **shrinivas0703/shrinivas0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
