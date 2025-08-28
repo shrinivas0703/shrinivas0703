@@ -3,10 +3,9 @@
 💻 **M.S. in Computer Science at Purdue | Looking for New Grad Spring 2026 Roles**  
 🚀 Passionate about building cloud-native applications, designing scalable distributed systems, and leveraging databases and machine learning to develop data-driven solutions.
 
-## 💻 Tech Stack:
 ## 🔧 Technologies
 
-### 🖥️ Languages
+### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +36,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 💻 Frontend / Web
+### 🖌️ Frontend / Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -66,7 +65,7 @@
 - **Software Engineer Intern @ ZF (Summer 2023)**
 - **Software Engineer Intern @ Altimetrik (Summer 2022)**
 
-## 📫 How to reach me  
+## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/shrinivas-venkatesan)  
 - [Email](mailto:shrinivas160703@gmail.com)
 - 📞 (248) 893-9321  
