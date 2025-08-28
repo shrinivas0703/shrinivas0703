@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Shrinivas Venkatesan  
 
 💻 **M.S. in Computer Science at Purdue | Looking for New Grad Spring 2026 Roles**  
-🚀 Passionate about building cloud-native applications, designing scalable distributed systems, and leveraging databases and machine learning to develop data-driven solutions.
+🚀 Passionate about building cloud-native applications, designing scalable software, and leveraging databases and machine learning to develop data-driven solutions.
 
 ## 🔧 Technologies
 
